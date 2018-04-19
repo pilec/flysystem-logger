@@ -1,0 +1,8 @@
+/vendor/
+/tests/FlyLog/temp/
+!/tests/FlyLog/temp/.gitkeep
+/tests/FlyLog/log/
+!/tests/FlyLog/log/.gitkeep
+/tests/FlyLog/testLog/
+!/tests/FlyLog/testLog/.gitkeep
+composer.lock
